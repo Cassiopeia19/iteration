@@ -1,0 +1,7 @@
+C:\Users\speer\Desktop\Iteration_project\Iteration_project\obj\Debug\Iteration_project.csprojAssemblyReference.cache
+C:\Users\speer\Desktop\Iteration_project\Iteration_project\obj\Debug\Iteration_project.csproj.CoreCompileInputs.cache
+C:\Users\speer\Desktop\Iteration_project\Iteration_project\bin\Debug\Iteration_project.exe.config
+C:\Users\speer\Desktop\Iteration_project\Iteration_project\bin\Debug\Iteration_project.exe
+C:\Users\speer\Desktop\Iteration_project\Iteration_project\bin\Debug\Iteration_project.pdb
+C:\Users\speer\Desktop\Iteration_project\Iteration_project\obj\Debug\Iteration_project.exe
+C:\Users\speer\Desktop\Iteration_project\Iteration_project\obj\Debug\Iteration_project.pdb
